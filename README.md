@@ -1,2 +1,2 @@
-# nearyou
+# Nearyou Assistant
 Aplcation Android
